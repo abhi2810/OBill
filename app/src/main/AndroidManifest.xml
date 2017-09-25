@@ -18,8 +18,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Signup"></activity>
-        <activity android:name=".Homescreen"></activity>
+        <activity android:name=".Signup" />
+        <activity android:name=".Homescreen" />
+        <activity android:name=".NewBill" />
+        <activity android:name=".AllBill"></activity>
     </application>
 
 </manifest>
