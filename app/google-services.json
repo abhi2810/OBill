@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "397655340825",
+    "firebase_url": "https://obill-10d66.firebaseio.com",
+    "project_id": "obill-10d66",
+    "storage_bucket": "obill-10d66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397655340825:android:d78936bdf7baae54",
+        "android_client_info": {
+          "package_name": "in.co.onetwork.obill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397655340825-1vle71rnrr7ep5p6h54u8jpflqgtd6cm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.co.onetwork.obill",
+            "certificate_hash": "4f671b88b4e4b5d3aa4a236e0bf53ab000013767"
+          }
+        },
+        {
+          "client_id": "397655340825-i9clcblffk8n08f1325ujmnaionptgaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_5eKEErHo21ljA5U5fK2fC_HiLTD6M4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397655340825-i9clcblffk8n08f1325ujmnaionptgaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
