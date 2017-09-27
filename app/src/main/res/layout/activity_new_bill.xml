@@ -38,7 +38,8 @@
             android:gravity="center"
             android:id="@+id/mob"
             android:layout_margin="15dp"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:inputType="number"/>
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -46,7 +47,8 @@
             android:gravity="center"
             android:id="@+id/amount"
             android:layout_margin="15dp"
-            android:layout_weight="1"/>
+            android:layout_weight="1"
+            android:inputType="numberDecimal"/>
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -69,7 +71,8 @@
                 android:gravity="center"
                 android:id="@+id/taxp"
                 android:layout_margin="15dp"
-                android:layout_weight="1"/>
+                android:layout_weight="1"
+                android:inputType="numberDecimal"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -102,7 +105,8 @@
                 android:gravity="center"
                 android:id="@+id/discp"
                 android:layout_margin="15dp"
-                android:layout_weight="1"/>
+                android:layout_weight="1"
+                android:inputType="numberDecimal"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

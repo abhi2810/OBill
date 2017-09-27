@@ -21,7 +21,8 @@
         <activity android:name=".Signup" />
         <activity android:name=".Homescreen" />
         <activity android:name=".NewBill" />
-        <activity android:name=".AllBill"></activity>
+        <activity android:name=".AllBill" />
+        <activity android:name=".QRcode"></activity>
     </application>
 
 </manifest>
